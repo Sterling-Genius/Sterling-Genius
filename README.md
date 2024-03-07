@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sterling-Genius
+- 👋 Hi, I’m @Emmanuel_Genius
 - 👀 I’m interested in project management, matlab, data analysis, augmented reality, python and robotics
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on data analysis and related projects
